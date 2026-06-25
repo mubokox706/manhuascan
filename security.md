@@ -9,7 +9,7 @@ The **🀦 Manhuascan** is the most comprehensive manhua reading tool, giving yo
 
 <div align="center">
 
-[![Download Manhuascan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/manhuascan)
+[![Download Manhuascan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/manhuascan)
 
 </div>
 
@@ -108,7 +108,7 @@ You need a better way to read manhua. Faster. Cleaner. Offline.
 6. **🔍 Search for Manhua** — enter series name
 7. **📖 Start Reading** — click on any chapter
 
-[![Download Manhuascan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/manhuascan)
+[![Download Manhuascan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/manhuascan)
 
 ### Reading Manhua
 
@@ -213,7 +213,7 @@ Read manhua the way it should be. **Manhuascan** gives you fast reading, offline
 
 <div align="center">
 
-[![Download Manhuascan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/manhuascan)
+[![Download Manhuascan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/manhuascan)
 
 **Version 4.6.1** — Read and download manhua. Free forever.
 
